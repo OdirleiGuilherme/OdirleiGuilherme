@@ -40,18 +40,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OdirleiGuilherme/OdirleiGuilherme/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/OdirleiGuilherme/count.svg?"  />
 </div>
 
 ###
-![Snake_animation](https://github.com/OdirleiGuilherme//blob/output/github.contribution-grid-sanke.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=OdirleiGuilherme&repo=OdirleiGuilherme&theme=react)](https://github.com/OdirleiGuilherme/OdirleiGuilherme)
 
 
 <div align="center">
