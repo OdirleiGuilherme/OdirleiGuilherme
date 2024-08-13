@@ -40,13 +40,17 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OdirleiGuilherme/OdirleiGuilherme/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/OdirleiGuilherme/count.svg?"  />
 </div>
 
 ###
-
-
 
 <div align="center">
   <img height="200" src="https://tenor.com/pt-BR/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif"  />
