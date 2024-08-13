@@ -49,6 +49,10 @@
 </div>
 
 ###
+![Snake_animation](https://github.com/OdirleiGuilherme//blob/output/github.contribution-grid-sanke.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=OdirleiGuilherme&repo=OdirleiGuilherme&theme=react)](https://github.com/OdirleiGuilherme/OdirleiGuilherme)
+
 
 <div align="center">
   <img height="200" src="https://tenor.com/pt-BR/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif"  />
