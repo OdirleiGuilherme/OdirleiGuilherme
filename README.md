@@ -19,7 +19,7 @@ Atualmente, venho explorando o ecossistema **Salesforce** e integrando **Intelig
 <!-- ESTA SEÇÃO SE ATUALIZA SOZINHA COM BASE NOS SEUS REPOSITÓRIOS -->
 Aqui estão as linguagens mais detectadas nos meus códigos públicos:
 
-### [![As linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### [![As linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=OdirleiGuilherme&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Nota:** O gráfico acima é gerado dinamicamente. Assim que você criar um repositório com uma nova linguagem (como Apex do Salesforce, por exemplo), ela aparecerá ali automaticamente!
 
