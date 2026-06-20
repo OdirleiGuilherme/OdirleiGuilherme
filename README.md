@@ -27,7 +27,7 @@ Aqui estão as linguagens mais detectadas nos meus códigos públicos:
 
 ### 📈 Estatísticas do GitHub
 
-![Status do GitHub de Odirlei](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Status do GitHub de Odirlei](https://github-readme-stats.vercel.app/api?username=OdirleiGuilherme&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ---
 
