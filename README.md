@@ -35,7 +35,7 @@ Aqui estão as linguagens mais detectadas nos meus códigos públicos:
 
 *   **LinkedIn:** https://linkedin.com/in/odirlei-guilherme
 *   **E-mail:** odirlei.guilherme11@gmail.com
-*   **Celular:** 21 974402104
+
 
 
 
